@@ -2,6 +2,5 @@
 
 console.log("Hello! there this is first commit in master.");
 
-console.log("Hello! i am added by develop branch.");
-
+f1; // for merge conflict
 f2; // new feature
