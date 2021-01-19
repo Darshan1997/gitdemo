@@ -1,1 +1,1 @@
-console.log("this is feature/one initial commit. origin from develop branch");
+console.log("this is feature/one initial commit. origin from develop branch.");
